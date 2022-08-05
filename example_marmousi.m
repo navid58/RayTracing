@@ -34,7 +34,7 @@ thetas = -30:5:30;
 % Vector of lengths
 lstep = [0, 1e5];
 
-imagesc(x/1000,z/1000,vel), colormap gray
+imagesc(x/1000,z/1000,vel), colormap gray; colorbar
 hold on
 
 % Raytrace
