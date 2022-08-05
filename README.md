@@ -1,7 +1,7 @@
 # Ray tracing
 ![ray tracing marmousi](https://github.com/navid58/RayTracing/blob/main/marmousi.png "Marmousi ray tracing")
 
-This simple MATLAB code solves ODE system for seismic ray tracing. System or ray equations is:
+This simple MATLAB code solves ODE system for seismic ray tracing:
 
 ![ray equations](https://github.com/navid58/RayTracing/blob/main/ray_equations.PNG "ray equations")
 
