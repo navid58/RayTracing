@@ -5,7 +5,7 @@ This simple MATLAB code solves ODE system for seismic ray tracing:
 
 ![ray equations](https://github.com/navid58/RayTracing/blob/main/ray_equations.PNG "ray equations")
 
-For a review and simple derivation of system of equations please see [ray_tracing_equations.pdf](https://github.com/navid58/RayTracing/blob/main/ray_tracing_equations.pdf).
+For a review and simple derivation of ray tracing equations please see [ray_tracing_equations.pdf](https://github.com/navid58/RayTracing/blob/main/ray_tracing_equations.pdf).
 
 ## original Python code
 The original code is in Python developed by [Matteo Ravasi](https://mrava87.github.io) as teaching material for ErSE 210 Seismology course at KAUST can be found in:
